@@ -1,0 +1,53 @@
+{
+    "article_title": "Changes in mutagenicity and acute toxicity of solutions of iodinated X-ray contrast media during chlorination",
+    "intervention_arm": {
+        "arm_group_label": "Iopamidol-containing solution subjected to chlorination",
+        "injection_method": null,
+        "primary_efficacy_results": [],
+        "secondary_efficacy_results": [],
+        "safety_results": [
+            {
+                "adverse_event": {
+                    "event_title": "Acute toxicity"
+                },
+                "affected_subjects": null,
+                "subjects_at_risk": null,
+                "affected_ratio": null,
+                "severity": "other"
+            },
+            {
+                "adverse_event": {
+                    "event_title": "Mutagenicity"
+                },
+                "affected_subjects": null,
+                "subjects_at_risk": null,
+                "affected_ratio": null,
+                "severity": "other"
+            }
+        ]
+    },
+    "sentiment": [
+        {
+            "contrast_agent_name": "Iopamidol",
+            "sentiment_category": "Negative"
+        },
+        {
+            "contrast_agent_name": "Iohexol",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Iopromide",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Iomeprol",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Diatrizoate",
+            "sentiment_category": "Neutral"
+        }
+    ],
+    "number_of_participants": null,
+    "nct_id": null
+}

@@ -1,0 +1,133 @@
+{
+    "article_title": "Effect of reduced x-ray tube voltage, low iodine concentration contrast medium, and sinogram-affirmed iterative reconstruction on image quality and radiation dose at coronary CT angiography: Results of the prospective multicenter REALISE trial",
+    "intervention_arm": {
+        "arm_group_label": "100 kVp protocol (n = 115)",
+        "injection_method": "IV",
+        "primary_efficacy_results": [
+            {
+                "outcome": {
+                    "endpoint": "image noise"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "2-way analysis of variance",
+                    "param_type": "Mean Difference",
+                    "param_value": -1.8,
+                    "p_value": "<.001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "signal-to-noise ratio"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "2-way analysis of variance",
+                    "param_type": "Mean Difference",
+                    "param_value": 1.2,
+                    "p_value": "<.001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "contrast-to-noise ratio"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "2-way analysis of variance",
+                    "param_type": "Mean Difference",
+                    "param_value": 0.8,
+                    "p_value": "<.001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "image quality scores"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "2-way analysis of variance",
+                    "param_type": "Mean Difference",
+                    "param_value": -0.1,
+                    "p_value": ">.05",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            }
+        ],
+        "secondary_efficacy_results": [
+            {
+                "outcome": {
+                    "endpoint": "iodine dose"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "independent Student t test",
+                    "param_type": "Percentage Change",
+                    "param_value": -26.5,
+                    "p_value": "<.0001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "size-specific dose estimate"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "independent Student t test",
+                    "param_type": "Percentage Change",
+                    "param_value": -35.1,
+                    "p_value": "<.0001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "effective dose"
+                },
+                "comparator_arm_label": "120 kVp protocol",
+                "condition_studied": "suspected coronary artery disease",
+                "statistical_analysis": {
+                    "method": "independent Student t test",
+                    "param_type": "Percentage Change",
+                    "param_value": -34.9,
+                    "p_value": "<.0001",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            }
+        ],
+        "safety_results": []
+    },
+    "sentiment": [
+        {
+            "contrast_agent_name": "iodixanol",
+            "sentiment_category": "Positive"
+        },
+        {
+            "contrast_agent_name": "iopromide",
+            "sentiment_category": "Positive"
+        },
+        {
+            "contrast_agent_name": "iopamidol",
+            "sentiment_category": "Positive"
+        }
+    ],
+    "number_of_participants": 231,
+    "nct_id": "ChiCTR-DDT-13003271"
+}

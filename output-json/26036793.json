@@ -1,0 +1,84 @@
+{
+    "article_title": "The initial experience of the upper abdominal CT angiography using low-concentration contrast medium on dual energy spectral CT",
+    "intervention_arm": {
+        "arm_group_label": "Spectral CT Imaging group",
+        "injection_method": "IV",
+        "primary_efficacy_results": [
+            {
+                "outcome": {
+                    "endpoint": "CNR of Abdominal aorta, coeliac trunk, mesenteric artery, and renal arteries"
+                },
+                "comparator_arm_label": "Conventional CTA group",
+                "condition_studied": "suspected abdominal focal lesions",
+                "statistical_analysis": {
+                    "method": "Student t test",
+                    "param_type": "Mean Difference",
+                    "param_value": null,
+                    "p_value": "<0.001",
+                    "confidence_interval": null,
+                    "significance": "positive"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "Subjective image quality score"
+                },
+                "comparator_arm_label": "Conventional CTA group",
+                "condition_studied": "suspected abdominal focal lesions",
+                "statistical_analysis": {
+                    "method": "Wilcoxon Test",
+                    "param_type": "Mean Difference",
+                    "param_value": null,
+                    "p_value": "<0.001",
+                    "confidence_interval": null,
+                    "significance": "positive"
+                }
+            }
+        ],
+        "secondary_efficacy_results": [
+            {
+                "outcome": {
+                    "endpoint": "Attenuation values"
+                },
+                "comparator_arm_label": "Conventional CTA group",
+                "condition_studied": "suspected abdominal focal lesions",
+                "statistical_analysis": {
+                    "method": "Student t test",
+                    "param_type": "Mean Difference",
+                    "param_value": null,
+                    "p_value": "<0.001",
+                    "confidence_interval": null,
+                    "significance": "positive"
+                }
+            },
+            {
+                "outcome": {
+                    "endpoint": "Image noise"
+                },
+                "comparator_arm_label": "Conventional CTA group",
+                "condition_studied": "suspected abdominal focal lesions",
+                "statistical_analysis": {
+                    "method": "Student t test",
+                    "param_type": "Mean Difference",
+                    "param_value": null,
+                    "p_value": "<0.001",
+                    "confidence_interval": null,
+                    "significance": "positive"
+                }
+            }
+        ],
+        "safety_results": []
+    },
+    "sentiment": [
+        {
+            "contrast_agent_name": "Iodixanol",
+            "sentiment_category": "Positive"
+        },
+        {
+            "contrast_agent_name": "Iohexol",
+            "sentiment_category": "Neutral"
+        }
+    ],
+    "number_of_participants": 70,
+    "nct_id": null
+}

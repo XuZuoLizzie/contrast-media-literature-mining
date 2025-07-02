@@ -1,0 +1,54 @@
+{
+    "article_title": "Ubiquitous Detection of Artificial Sweeteners and Iodinated X-ray Contrast Media in Aquatic Environmental and Wastewater Treatment Plant Samples from Vietnam, The Philippines, and Myanmar",
+    "intervention_arm": {
+        "arm_group_label": "Vietnamese Wastewater Treatment Plant Samples",
+        "injection_method": null,
+        "primary_efficacy_results": [],
+        "secondary_efficacy_results": [],
+        "safety_results": []
+    },
+    "sentiment": [
+        {
+            "contrast_agent_name": "Acesulfame",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Aspartame",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Cyclamate",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Saccharin",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Sucralose",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Iohexol",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Iopamidol",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Iopromide",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Diatrizoic acid",
+            "sentiment_category": "Neutral"
+        },
+        {
+            "contrast_agent_name": "Metrizoic acid",
+            "sentiment_category": "Neutral"
+        }
+    ],
+    "number_of_participants": null,
+    "nct_id": null
+}

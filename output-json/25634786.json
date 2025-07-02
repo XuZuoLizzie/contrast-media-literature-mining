@@ -1,0 +1,46 @@
+{
+    "article_title": "Which iodinated contrast media is the least cytotoxic to human disc cells?",
+    "intervention_arm": {
+        "arm_group_label": "Human disc cells treated with 0, 0.1, 1, 10, and 100 mg/mL CM solutions (ionic monomer, ionic dimer, non-ionic monomer, and non-ionic dimer) or mannitol (control) for 2 days",
+        "injection_method": null,
+        "primary_efficacy_results": [],
+        "secondary_efficacy_results": [
+            {
+                "outcome": {
+                    "endpoint": "Human disc cell viability"
+                },
+                "comparator_arm_label": "mannitol (control)",
+                "condition_studied": "degenerative lumbar disease",
+                "statistical_analysis": {
+                    "method": "two-way ANOVA followed by Tukey's post hoc test",
+                    "param_type": "living cell counts",
+                    "param_value": null,
+                    "p_value": "<.005",
+                    "confidence_interval": null,
+                    "significance": "indeterminate"
+                }
+            }
+        ],
+        "safety_results": []
+    },
+    "sentiment": [
+        {
+            "contrast_agent_name": "iodixanol (non-ionic dimeric CM)",
+            "sentiment_category": "Positive"
+        },
+        {
+            "contrast_agent_name": "iopromide (non-ionic monomeric CM)",
+            "sentiment_category": "Positive"
+        },
+        {
+            "contrast_agent_name": "ioxaglate (ionic dimeric CM)",
+            "sentiment_category": "Negative"
+        },
+        {
+            "contrast_agent_name": "ioxithalamate (ionic monomeric CM)",
+            "sentiment_category": "Negative"
+        }
+    ],
+    "number_of_participants": 10,
+    "nct_id": null
+}
